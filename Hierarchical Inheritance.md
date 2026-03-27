@@ -28,7 +28,6 @@ To write a Python program to get the employee and doctor details and display the
 
 ### PROGRAM
 ```python
-
 class Parent:
    def __init__(self,name):
      self.name = name
