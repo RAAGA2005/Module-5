@@ -24,8 +24,7 @@ To write a Python code to create a class for a person with a parameterized const
 ### PROGRAM
 
 ```python
-#Red No.:212222060253
-#Name: SRIJAYAN T
+
 class person:
     def __init__(self,id,name):
          self.id=id
